@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of Mind",
+  "description": "Interactive 1980s detective mystery game engine with dynamic suspect interrogations, clue board, and hidden suspicion tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
